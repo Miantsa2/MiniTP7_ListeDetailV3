@@ -1,0 +1,3 @@
+- le test verifie que stockTotal() additionne correctement le champ quantité  des données insérées 
+- non, il ne se contente pas de constater l'absence de crash, la valeur donnée est une vraie assertion de calcul et toutes les données sont inséré dans le test lui-même
+- Pour qu'il ait plus de valeur il faudrait  tester les cas limites : base vide (retourner 0 ou rien ?), valeurs négatives ou nulles
